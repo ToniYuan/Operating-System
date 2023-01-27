@@ -1,7 +1,7 @@
 # Operating System
 ## Lec1:
 ### 1. What is an OS?
-    A program that act as an intermediary between a user and the computer hardware
+    A program that act as an intermediary(中介) between a user and the computer hardware
     Goals: 
     - Excute user's program and solve the user problem easier.
     - Convenient to use.
